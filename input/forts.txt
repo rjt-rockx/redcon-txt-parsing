@@ -1,0 +1,127 @@
+premade
+0% - 973rd Aux Light Artillery Station
+2% - Airforce Transit Depot 73
+3% - Damocles Dam Security Perimeter
+5% - Repurposed Launch Pad
+15% - State Chemical Plant
+24% - KS Tech Research Facility
+31% - SIRIUS Scorcher Platform
+36% - The Great Bulwark
+61% - Centurion Missile Pod
+69% - 73rd State Nuclear Silo
+
+enemy
+0% - Krux Listening Outpost
+1% - Assault Mortars Ambush
+2% - ORION Blaster Test Site
+3% - Forsaken Launch Pad
+4% - Secret Railway Tunnel
+5% - Wastelands Encampment
+6% - Derelict Observatory
+7% - Supply Depot
+8% - LEX Ammo Factory
+9% - Chemical Plant
+10% - Southern Rocket LS
+11% - Aurelia Airbase
+12% - Cavern Retreat
+13% - Petra Gate
+14% - Highland Ridge
+15% - XXII Field Hospital
+16% - Fort Sycamore
+17% - Iron Wall
+18% - Torch Power Platform
+19% - Atom Core Bunker
+20% - Viper Nest
+21% - Precision Strike COM
+22% - Communications Central
+23% - The Claw
+24% - Krux Sneak Attack
+25% - Siege Brigade
+26% - Bell Tower 	
+27% - The Spire
+28% - ICBM Launch Silo
+29% - Castle Flakk
+30% - SCION EMP Range
+31% - Ramses City Rooftops
+32% - Storm Wyvern
+33% - Propaganda Tower
+34% - Dozer Castle
+35% - Capitulum Cathedral
+36% - SST Prism
+37% - Xerxes Industrial City
+38% - Fortress Axiom
+39% - Xerxes Industrial Zone
+40% - Kreiwald Research Station
+41% - SSR Testing Pylon
+42% - Retaliatory Battalion
+43% - Xerxes Slums Uprising
+44% - Insurgents' Hideout
+45% - Creon Sea Port
+46% - Supercharged Platform
+47% - Lower Railroad Bridge
+48% - Coastal Cliffs
+49% - Upper Railroad Bridge
+50% - Megareus Waterfront
+51% - Megareus West
+52% - Downtown Guard Tower
+53% - Megareus East
+54% - Falcon Fortress
+55% - Capital Destroyer XVII
+56% - Nocturnal WMD Vaults
+57% - Uranium Quarry
+58% - Vipers Strike Command
+59% - Thorium-Plutonium Quarry
+60% - Aerodrome Icarus
+61% - SSR Pylon IX
+62% - Mount Naraka
+63% - Training Camp
+64% - Sea Fortress Polarix
+65% - Railroad Nexus
+66% - Underground Lab
+67% - Stormguard AA System
+68% - Fort Locust
+69% - Jupiter ICBM Vaults
+70% - Thorn Valley
+71% - Central Intelligence Command
+72% - Tribune Missile Pod
+73% - Jericho Fortress
+74% - Wrath Capital Destroyer
+75% - Flakk Citadel XV
+76% - Gold Mine
+77% - Starlight Prime
+78% - IXth Artillery Legion
+79% - Krux Guard Camp
+80% - Railroad Terminal XL
+81% - Molehill
+82% - Karax Crags
+83% - SST Invictus
+84% - Tribune Missile Pod
+85% - Fort Apocalypse
+86% - Krux Military Academy
+87% - Sol Tyranus
+88% - Mount Sepulcher
+89% - Minerva Reactor Citadel
+90% - Orcus Gorge
+91% - Krixus Silos
+92% - Sierra Thrax
+93% - Fortress Mars
+94% - Janus Viaduct
+95% - Remus Capital Outskirts
+96% - Fortress Octopuss
+97% - Remus Factorium
+98% - Remus Capital of Krux
+99% - Fortress Rubicon
+100% - General Grauen
+101% - General Leibholz
+102% - General Spector
+103% - General Morgenstern
+104% - General Hass
+
+customizable
+7% - FORT RAPTOR: Beast upon this world!
+16% - FORT SYCAMORE: Cut them all down!
+27% - THE SPIRE: Stand your ground!
+38% - FORTRESS SCARABEUS: Eternal peace in perpetual war.
+54% - FORTRESS FALCON: Swoop in for the kill!
+73% - FORTRESS RESOLUTION: Stronger will shall triumph!
+99% - FORTRESS RUBICON: The die is cast.

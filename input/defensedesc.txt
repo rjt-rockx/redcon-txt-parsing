@@ -1,0 +1,13 @@
+Autocannon Defense Turret 
+Fills the skies with bullets, shooting down incoming aircraft and ordnance.
+Reliable against airships, projectiles in direct line of fire and missiles.
+Benefits greatly from the target tracking provided by Laser Defense System. 
+
+Flak Defense Tower
+Fires a cluster of burning, proximity fuze triggered airburst bomblets. Resulting aerial explosions are effective against heavy projectiles and multiple shells incoming at once.
+Flak does not need additional power to operate, however its ammunition consumption is comparable to that of a medium-sized artillery. 
+
+Laser Defense System
+Laser beam targets incoming ordnance with 100% precision, tracking and rapidly heating the payload until it explodes.
+Effective against light shells and missiles.
+Nearby Flak and Autocannon defense turrets increase their effectiveness against tracked targets by +30% 

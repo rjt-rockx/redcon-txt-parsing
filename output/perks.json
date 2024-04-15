@@ -1,0 +1,507 @@
+[
+    {
+        "name": "ADVANCED AUTOLOADERS",
+        "description": "Cannons reload 3% faster.",
+        "tier": 1
+    },
+    {
+        "name": "ADVANCED AUTOLOADERS",
+        "description": "Cannons reload 4% faster.",
+        "tier": 2
+    },
+    {
+        "name": "ADVANCED AUTOLOADERS",
+        "description": "Cannons reload 5% faster.",
+        "tier": 3
+    },
+    {
+        "name": "BOMBARDMENT",
+        "description": "All mortar bombs deal 5% more damage.",
+        "tier": 1
+    },
+    {
+        "name": "BOMBARDMENT",
+        "description": "All mortar bombs deal 7% more damage.",
+        "tier": 2
+    },
+    {
+        "name": "BOMBARDMENT",
+        "description": "All mortar bombs deal 9% more damage.",
+        "tier": 3
+    },
+    {
+        "name": "ROCKETEERING",
+        "description": "Missile launchers reload 4% faster.",
+        "tier": 1
+    },
+    {
+        "name": "ROCKETEERING",
+        "description": "Missile launchers reload 5% faster.",
+        "tier": 2
+    },
+    {
+        "name": "ROCKETEERING",
+        "description": "Missile launchers reload 6% faster.",
+        "tier": 3
+    },
+    {
+        "name": "BLAST DOORS",
+        "description": "Fire spreads throughout the fortress 15% slower.",
+        "tier": 1
+    },
+    {
+        "name": "BLAST DOORS",
+        "description": "Fire spreads throughout the fortress 20% slower.",
+        "tier": 2
+    },
+    {
+        "name": "BLAST DOORS",
+        "description": "Fire spreads throughout the fortress 25% slower.",
+        "tier": 3
+    },
+    {
+        "name": "CONDENSED NAPALM",
+        "description": "Fire from incendiary weapons spreads 10% faster.",
+        "tier": 1
+    },
+    {
+        "name": "CONDENSED NAPALM",
+        "description": "Fire from incendiary weapons spreads 15% faster.",
+        "tier": 2
+    },
+    {
+        "name": "CONDENSED NAPALM",
+        "description": "Fire from incendiary weapons spreads 20% faster.",
+        "tier": 3
+    },
+    {
+        "name": "DEATH CLOUD",
+        "description": "Neurotoxin kills 20% faster and lasts 10% longer.",
+        "tier": 1
+    },
+    {
+        "name": "DEATH CLOUD",
+        "description": "Neurotoxin kills 30% faster and lasts 15% longer.",
+        "tier": 2
+    },
+    {
+        "name": "DEATH CLOUD",
+        "description": "Neurotoxin kills 40% faster and lasts 20% longer.",
+        "tier": 3
+    },
+    {
+        "name": "RAPID VENTILATION",
+        "description": "Toxic contamination dissipates 20% faster.",
+        "tier": 1
+    },
+    {
+        "name": "RAPID VENTILATION",
+        "description": "Toxic contamination dissipates 25% faster.",
+        "tier": 2
+    },
+    {
+        "name": "RAPID VENTILATION",
+        "description": "Toxic contamination dissipates 30% faster.",
+        "tier": 3
+    },
+    {
+        "name": "SUPERCONCRETE",
+        "description": "Fortress sustains 4% more structural damage.",
+        "tier": 1
+    },
+    {
+        "name": "SUPERCONCRETE",
+        "description": "Fortress sustains 6% more structural damage.",
+        "tier": 2
+    },
+    {
+        "name": "SUPERCONCRETE",
+        "description": "Fortress sustains 8% more structural damage.",
+        "tier": 3
+    },
+    {
+        "name": "WAR HAMMERS",
+        "description": "Soldiers repair 2% faster.",
+        "tier": 1
+    },
+    {
+        "name": "WAR HAMMERS",
+        "description": "Soldiers repair 4% faster.",
+        "tier": 2
+    },
+    {
+        "name": "WAR HAMMERS",
+        "description": "Soldiers repair 6% faster.",
+        "tier": 3
+    },
+    {
+        "name": "JACKBOOTS",
+        "description": "Soldiers run 50% faster.",
+        "tier": 1
+    },
+    {
+        "name": "TITANIUM JACKHAMMERS",
+        "description": "Soldiers tear down enemy equipment 40% faster.",
+        "tier": 1
+    },
+    {
+        "name": "TITANIUM JACKHAMMERS",
+        "description": "Soldiers tear down enemy equipment 50% faster.",
+        "tier": 2
+    },
+    {
+        "name": "TITANIUM JACKHAMMERS",
+        "description": "Soldiers tear down enemy equipment 60% faster.",
+        "tier": 3
+    },
+    {
+        "name": "CUSHIONED HELMETS",
+        "description": "Soldiers recover from stun 20% faster.",
+        "tier": 1
+    },
+    {
+        "name": "CUSHIONED HELMETS",
+        "description": "Soldiers recover from stun 25% faster.",
+        "tier": 2
+    },
+    {
+        "name": "CUSHIONED HELMETS",
+        "description": "Soldiers recover from stun 30% faster.",
+        "tier": 3
+    },
+    {
+        "name": "MICROFILTRATION",
+        "description": "Soldiers survive in contaminated zones.",
+        "tier": 1
+    },
+    {
+        "name": "ASBESTOS COATING",
+        "description": "Soldiers are 20% more resistant to flames.",
+        "tier": 1
+    },
+    {
+        "name": "ASBESTOS COATING",
+        "description": "Soldiers are 30% more resistant to flames.",
+        "tier": 2
+    },
+    {
+        "name": "ASBESTOS COATING",
+        "description": "Soldiers are 40% more resistant to flames.",
+        "tier": 3
+    },
+    {
+        "name": "PAINKILLERS",
+        "description": "Soldiers gain 4% more health.",
+        "tier": 1
+    },
+    {
+        "name": "PAINKILLERS",
+        "description": "Soldiers gain 6% more health.",
+        "tier": 2
+    },
+    {
+        "name": "PAINKILLERS",
+        "description": "Soldiers gain 8% more health.",
+        "tier": 3
+    },
+    {
+        "name": "LUCKY SHOT",
+        "description": "Converts 6% missed shots to hits.",
+        "tier": 1
+    },
+    {
+        "name": "LUCKY SHOT",
+        "description": "Converts 7% missed shots to hits.",
+        "tier": 2
+    },
+    {
+        "name": "LUCKY SHOT",
+        "description": "Converts 8% missed shots to hits.",
+        "tier": 3
+    },
+    {
+        "name": "CAMOUFLAGE",
+        "description": "Enemy has +3% chance to miss.",
+        "tier": 1
+    },
+    {
+        "name": "CAMOUFLAGE",
+        "description": "Enemy has +4% chance to miss.",
+        "tier": 2
+    },
+    {
+        "name": "CAMOUFLAGE",
+        "description": "Enemy has +5% chance to miss.",
+        "tier": 3
+    },
+    {
+        "name": "POWERCELLS",
+        "description": "+1 Power supply.",
+        "tier": 1
+    },
+    {
+        "name": "POWERCELLS",
+        "description": "+1 Power supply.",
+        "tier": 2
+    },
+    {
+        "name": "POWERCELLS",
+        "description": "+1 Power supply.",
+        "tier": 3
+    },
+    {
+        "name": "SUPPLY LINES",
+        "description": "+2 Ammunition production.",
+        "tier": 1
+    },
+    {
+        "name": "SUPPLY LINES",
+        "description": "+2 Ammunition production.",
+        "tier": 2
+    },
+    {
+        "name": "SUPPLY LINES",
+        "description": "+2 Ammunition production.",
+        "tier": 3
+    },
+    {
+        "name": "OVERCLOCKING",
+        "description": "Scrambler, Infiltration and Airships prepare +4% faster.",
+        "tier": 1
+    },
+    {
+        "name": "OVERCLOCKING",
+        "description": "Scrambler, Infiltration and Airships prepare +5% faster.",
+        "tier": 2
+    },
+    {
+        "name": "OVERCLOCKING",
+        "description": "Scrambler, Infiltration and Airships prepare +6% faster.",
+        "tier": 3
+    },
+    {
+        "name": "HEX AEGIS",
+        "description": "Kinetic Shield regenerates +4% faster.",
+        "tier": 1
+    },
+    {
+        "name": "HEX AEGIS",
+        "description": "Kinetic Shield regenerates +5% faster.",
+        "tier": 2
+    },
+    {
+        "name": "HEX AEGIS",
+        "description": "Kinetic Shield regenerates +6% faster.",
+        "tier": 3
+    },
+    {
+        "name": "TURBOCHARGER",
+        "description": "Energy weapons recharge +4% faster.",
+        "tier": 1
+    },
+    {
+        "name": "TURBOCHARGER",
+        "description": "Energy weapons recharge +6% faster.",
+        "tier": 2
+    },
+    {
+        "name": "TURBOCHARGER",
+        "description": "Energy weapons recharge +8% faster.",
+        "tier": 3
+    },
+    {
+        "name": "ELEMENT OF SURPRISE",
+        "description": "9% Longer stun effect duration.",
+        "tier": 1
+    },
+    {
+        "name": "ELEMENT OF SURPRISE",
+        "description": "12% Longer stun effect duration.",
+        "tier": 2
+    },
+    {
+        "name": "ELEMENT OF SURPRISE",
+        "description": "15% Longer stun effect duration.",
+        "tier": 3
+    },
+    {
+        "name": "BLOODLUST",
+        "description": "Soldier heals +10% for every kill.",
+        "tier": 1
+    },
+    {
+        "name": "BLOODLUST",
+        "description": "Soldier heals +15% for every kill.",
+        "tier": 2
+    },
+    {
+        "name": "BLOODLUST",
+        "description": "Soldier heals +20% for every kill.",
+        "tier": 3
+    },
+    {
+        "name": "LAST STAND",
+        "description": "Weapons deal +10% damage when under 40% fortress structural integrity.",
+        "tier": 1
+    },
+    {
+        "name": "LAST STAND",
+        "description": "Weapons deal +15% damage when under 40% fortress structural integrity.",
+        "tier": 2
+    },
+    {
+        "name": "LAST STAND",
+        "description": "Weapons deal +20% damage when under 40% fortress structural integrity.",
+        "tier": 3
+    },
+    {
+        "name": "ONSLAUGHT",
+        "description": "All weapons get +9% reload boost whenever a target is destroyed.",
+        "tier": 1
+    },
+    {
+        "name": "ONSLAUGHT",
+        "description": "All weapons get +12% reload boost whenever a target is destroyed.",
+        "tier": 2
+    },
+    {
+        "name": "ONSLAUGHT",
+        "description": "All weapons get +15% reload boost whenever a target is destroyed.",
+        "tier": 3
+    },
+    {
+        "name": "DESPERATE MEASURES",
+        "description": "Soldier's death extinguishes fire, dissipates toxins and repairs 10 hp.",
+        "tier": 1
+    },
+    {
+        "name": "DESPERATE MEASURES",
+        "description": "Soldier's death extinguishes fire, dissipates toxins and repairs 30 hp.",
+        "tier": 2
+    },
+    {
+        "name": "DESPERATE MEASURES",
+        "description": "Soldier's death extinguishes fire, dissipates toxins and repairs 75 hp.",
+        "tier": 3
+    },
+    {
+        "name": "TRAITORS AND THIEVES",
+        "description": "Enemy loses -2 ammunition per second.",
+        "tier": 1
+    },
+    {
+        "name": "TRAITORS AND THIEVES",
+        "description": "Enemy loses -3 ammunition per second.",
+        "tier": 2
+    },
+    {
+        "name": "TRAITORS AND THIEVES",
+        "description": "Enemy loses -4 ammunition per second.",
+        "tier": 3
+    },
+    {
+        "name": "AUXILIARY RESERVES",
+        "description": "+1 Soldier joins your forces.",
+        "tier": 1
+    },
+    {
+        "name": "VOLUNTEERS",
+        "description": "+1 Soldier joins your forces.",
+        "tier": 1
+    },
+    {
+        "name": "HARD SHELL",
+        "description": "Missiles and shells are 20% more durable.",
+        "tier": 1
+    },
+    {
+        "name": "HEROIC SACRIFICE",
+        "description": "Soldiers invading enemy base explode in death, dealing 25 damage.",
+        "tier": 1
+    },
+    {
+        "name": "HEROIC SACRIFICE",
+        "description": "Soldiers invading enemy base explode in death, dealing 50 damage.",
+        "tier": 2
+    },
+    {
+        "name": "HEROIC SACRIFICE",
+        "description": "Soldiers invading enemy base explode in death, dealing 75 damage.",
+        "tier": 3
+    },
+    {
+        "name": "WALL OF FIRE",
+        "description": "All active defense turrets deal +10% more damage.",
+        "tier": 1
+    },
+    {
+        "name": "AIR SUPERIORITY",
+        "description": "Airships are 15% more durable and move much faster.",
+        "tier": 1
+    },
+    {
+        "name": "NUCLEAR SUPERPOWER",
+        "description": "Nuclear Reactor yields +2 power.",
+        "tier": 1
+    },
+    {
+        "name": "ARMS RACE",
+        "description": "NEMESIS Tactical Nuke prepares 10% faster.",
+        "tier": 1
+    },
+    {
+        "name": "DEATH FROM ABOVE",
+        "description": "TARTARUS Heavy Mortar gains +8% accuracy.",
+        "tier": 1
+    },
+    {
+        "name": "MAXIMUM OVERCHARGE",
+        "description": "Big energy weapons SIRIUS and HYPERION deal +30% damage.",
+        "tier": 1
+    },
+    {
+        "name": "EXPENDABLES",
+        "description": "Exhausted soldiers work slowly and die fast.",
+        "tier": 1
+    },
+    {
+        "name": "EXPENDABLES",
+        "description": "Exhausted soldiers move slowly and die fast.",
+        "tier": 2
+    },
+    {
+        "name": "EXPERIMENTAL PROTOTYPE",
+        "description": "Weapon requires a few tweaks and calibrations.",
+        "tier": 1
+    },
+    {
+        "name": "LEX STORM",
+        "description": "HYDRA and BASILISK cannons deal +5% damage.",
+        "tier": 1
+    },
+    {
+        "name": "LEX STORM",
+        "description": "HYDRA and BASILISK cannons deal +6% damage.",
+        "tier": 2
+    },
+    {
+        "name": "LEX STORM",
+        "description": "HYDRA and BASILISK cannons deal +7% damage.",
+        "tier": 3
+    },
+    {
+        "name": "WARMASTER",
+        "description": "This fortress is run by a superb military leader.",
+        "tier": 1
+    },
+    {
+        "name": "PRAETORIANS",
+        "description": "Elite weapon crews shell like there is no tomorrow.",
+        "tier": 1
+    },
+    {
+        "name": "SAFE SECTOR",
+        "description": "Home turf advantage.",
+        "tier": 1
+    }
+]

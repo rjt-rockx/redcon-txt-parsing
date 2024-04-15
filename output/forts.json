@@ -1,0 +1,734 @@
+[
+    {
+        "name": "973rd Aux Light Artillery Station",
+        "category": "premade",
+        "progress": 0,
+        "description": ""
+    },
+    {
+        "name": "Krux Listening Outpost",
+        "category": "enemy",
+        "progress": 0,
+        "description": ""
+    },
+    {
+        "name": "Assault Mortars Ambush",
+        "category": "enemy",
+        "progress": 1,
+        "description": ""
+    },
+    {
+        "name": "Airforce Transit Depot 73",
+        "category": "premade",
+        "progress": 2,
+        "description": ""
+    },
+    {
+        "name": "ORION Blaster Test Site",
+        "category": "enemy",
+        "progress": 2,
+        "description": ""
+    },
+    {
+        "name": "Damocles Dam Security Perimeter",
+        "category": "premade",
+        "progress": 3,
+        "description": ""
+    },
+    {
+        "name": "Forsaken Launch Pad",
+        "category": "enemy",
+        "progress": 3,
+        "description": ""
+    },
+    {
+        "name": "Secret Railway Tunnel",
+        "category": "enemy",
+        "progress": 4,
+        "description": ""
+    },
+    {
+        "name": "Repurposed Launch Pad",
+        "category": "premade",
+        "progress": 5,
+        "description": ""
+    },
+    {
+        "name": "Wastelands Encampment",
+        "category": "enemy",
+        "progress": 5,
+        "description": ""
+    },
+    {
+        "name": "Derelict Observatory",
+        "category": "enemy",
+        "progress": 6,
+        "description": ""
+    },
+    {
+        "name": "Supply Depot",
+        "category": "enemy",
+        "progress": 7,
+        "description": ""
+    },
+    {
+        "name": "FORT RAPTOR",
+        "category": "customizable",
+        "progress": 7,
+        "description": "Beast upon this world!"
+    },
+    {
+        "name": "LEX Ammo Factory",
+        "category": "enemy",
+        "progress": 8,
+        "description": ""
+    },
+    {
+        "name": "Chemical Plant",
+        "category": "enemy",
+        "progress": 9,
+        "description": ""
+    },
+    {
+        "name": "Southern Rocket LS",
+        "category": "enemy",
+        "progress": 10,
+        "description": ""
+    },
+    {
+        "name": "Aurelia Airbase",
+        "category": "enemy",
+        "progress": 11,
+        "description": ""
+    },
+    {
+        "name": "Cavern Retreat",
+        "category": "enemy",
+        "progress": 12,
+        "description": ""
+    },
+    {
+        "name": "Petra Gate",
+        "category": "enemy",
+        "progress": 13,
+        "description": ""
+    },
+    {
+        "name": "Highland Ridge",
+        "category": "enemy",
+        "progress": 14,
+        "description": ""
+    },
+    {
+        "name": "State Chemical Plant",
+        "category": "premade",
+        "progress": 15,
+        "description": ""
+    },
+    {
+        "name": "XXII Field Hospital",
+        "category": "enemy",
+        "progress": 15,
+        "description": ""
+    },
+    {
+        "name": "Fort Sycamore",
+        "category": "enemy",
+        "progress": 16,
+        "description": ""
+    },
+    {
+        "name": "FORT SYCAMORE",
+        "category": "customizable",
+        "progress": 16,
+        "description": "Cut them all down!"
+    },
+    {
+        "name": "Iron Wall",
+        "category": "enemy",
+        "progress": 17,
+        "description": ""
+    },
+    {
+        "name": "Torch Power Platform",
+        "category": "enemy",
+        "progress": 18,
+        "description": ""
+    },
+    {
+        "name": "Atom Core Bunker",
+        "category": "enemy",
+        "progress": 19,
+        "description": ""
+    },
+    {
+        "name": "Viper Nest",
+        "category": "enemy",
+        "progress": 20,
+        "description": ""
+    },
+    {
+        "name": "Precision Strike COM",
+        "category": "enemy",
+        "progress": 21,
+        "description": ""
+    },
+    {
+        "name": "Communications Central",
+        "category": "enemy",
+        "progress": 22,
+        "description": ""
+    },
+    {
+        "name": "The Claw",
+        "category": "enemy",
+        "progress": 23,
+        "description": ""
+    },
+    {
+        "name": "KS Tech Research Facility",
+        "category": "premade",
+        "progress": 24,
+        "description": ""
+    },
+    {
+        "name": "Krux Sneak Attack",
+        "category": "enemy",
+        "progress": 24,
+        "description": ""
+    },
+    {
+        "name": "Siege Brigade",
+        "category": "enemy",
+        "progress": 25,
+        "description": ""
+    },
+    {
+        "name": "Bell Tower",
+        "category": "enemy",
+        "progress": 26,
+        "description": ""
+    },
+    {
+        "name": "The Spire",
+        "category": "enemy",
+        "progress": 27,
+        "description": ""
+    },
+    {
+        "name": "THE SPIRE",
+        "category": "customizable",
+        "progress": 27,
+        "description": "Stand your ground!"
+    },
+    {
+        "name": "ICBM Launch Silo",
+        "category": "enemy",
+        "progress": 28,
+        "description": ""
+    },
+    {
+        "name": "Castle Flakk",
+        "category": "enemy",
+        "progress": 29,
+        "description": ""
+    },
+    {
+        "name": "SCION EMP Range",
+        "category": "enemy",
+        "progress": 30,
+        "description": ""
+    },
+    {
+        "name": "SIRIUS Scorcher Platform",
+        "category": "premade",
+        "progress": 31,
+        "description": ""
+    },
+    {
+        "name": "Ramses City Rooftops",
+        "category": "enemy",
+        "progress": 31,
+        "description": ""
+    },
+    {
+        "name": "Storm Wyvern",
+        "category": "enemy",
+        "progress": 32,
+        "description": ""
+    },
+    {
+        "name": "Propaganda Tower",
+        "category": "enemy",
+        "progress": 33,
+        "description": ""
+    },
+    {
+        "name": "Dozer Castle",
+        "category": "enemy",
+        "progress": 34,
+        "description": ""
+    },
+    {
+        "name": "Capitulum Cathedral",
+        "category": "enemy",
+        "progress": 35,
+        "description": ""
+    },
+    {
+        "name": "The Great Bulwark",
+        "category": "premade",
+        "progress": 36,
+        "description": ""
+    },
+    {
+        "name": "SST Prism",
+        "category": "enemy",
+        "progress": 36,
+        "description": ""
+    },
+    {
+        "name": "Xerxes Industrial City",
+        "category": "enemy",
+        "progress": 37,
+        "description": ""
+    },
+    {
+        "name": "Fortress Axiom",
+        "category": "enemy",
+        "progress": 38,
+        "description": ""
+    },
+    {
+        "name": "FORTRESS SCARABEUS",
+        "category": "customizable",
+        "progress": 38,
+        "description": "Eternal peace in perpetual war."
+    },
+    {
+        "name": "Xerxes Industrial Zone",
+        "category": "enemy",
+        "progress": 39,
+        "description": ""
+    },
+    {
+        "name": "Kreiwald Research Station",
+        "category": "enemy",
+        "progress": 40,
+        "description": ""
+    },
+    {
+        "name": "SSR Testing Pylon",
+        "category": "enemy",
+        "progress": 41,
+        "description": ""
+    },
+    {
+        "name": "Retaliatory Battalion",
+        "category": "enemy",
+        "progress": 42,
+        "description": ""
+    },
+    {
+        "name": "Xerxes Slums Uprising",
+        "category": "enemy",
+        "progress": 43,
+        "description": ""
+    },
+    {
+        "name": "Insurgents' Hideout",
+        "category": "enemy",
+        "progress": 44,
+        "description": ""
+    },
+    {
+        "name": "Creon Sea Port",
+        "category": "enemy",
+        "progress": 45,
+        "description": ""
+    },
+    {
+        "name": "Supercharged Platform",
+        "category": "enemy",
+        "progress": 46,
+        "description": ""
+    },
+    {
+        "name": "Lower Railroad Bridge",
+        "category": "enemy",
+        "progress": 47,
+        "description": ""
+    },
+    {
+        "name": "Coastal Cliffs",
+        "category": "enemy",
+        "progress": 48,
+        "description": ""
+    },
+    {
+        "name": "Upper Railroad Bridge",
+        "category": "enemy",
+        "progress": 49,
+        "description": ""
+    },
+    {
+        "name": "Megareus Waterfront",
+        "category": "enemy",
+        "progress": 50,
+        "description": ""
+    },
+    {
+        "name": "Megareus West",
+        "category": "enemy",
+        "progress": 51,
+        "description": ""
+    },
+    {
+        "name": "Downtown Guard Tower",
+        "category": "enemy",
+        "progress": 52,
+        "description": ""
+    },
+    {
+        "name": "Megareus East",
+        "category": "enemy",
+        "progress": 53,
+        "description": ""
+    },
+    {
+        "name": "Falcon Fortress",
+        "category": "enemy",
+        "progress": 54,
+        "description": ""
+    },
+    {
+        "name": "FORTRESS FALCON",
+        "category": "customizable",
+        "progress": 54,
+        "description": "Swoop in for the kill!"
+    },
+    {
+        "name": "Capital Destroyer XVII",
+        "category": "enemy",
+        "progress": 55,
+        "description": ""
+    },
+    {
+        "name": "Nocturnal WMD Vaults",
+        "category": "enemy",
+        "progress": 56,
+        "description": ""
+    },
+    {
+        "name": "Uranium Quarry",
+        "category": "enemy",
+        "progress": 57,
+        "description": ""
+    },
+    {
+        "name": "Vipers Strike Command",
+        "category": "enemy",
+        "progress": 58,
+        "description": ""
+    },
+    {
+        "name": "Thorium-Plutonium Quarry",
+        "category": "enemy",
+        "progress": 59,
+        "description": ""
+    },
+    {
+        "name": "Aerodrome Icarus",
+        "category": "enemy",
+        "progress": 60,
+        "description": ""
+    },
+    {
+        "name": "Centurion Missile Pod",
+        "category": "premade",
+        "progress": 61,
+        "description": ""
+    },
+    {
+        "name": "SSR Pylon IX",
+        "category": "enemy",
+        "progress": 61,
+        "description": ""
+    },
+    {
+        "name": "Mount Naraka",
+        "category": "enemy",
+        "progress": 62,
+        "description": ""
+    },
+    {
+        "name": "Training Camp",
+        "category": "enemy",
+        "progress": 63,
+        "description": ""
+    },
+    {
+        "name": "Sea Fortress Polarix",
+        "category": "enemy",
+        "progress": 64,
+        "description": ""
+    },
+    {
+        "name": "Railroad Nexus",
+        "category": "enemy",
+        "progress": 65,
+        "description": ""
+    },
+    {
+        "name": "Underground Lab",
+        "category": "enemy",
+        "progress": 66,
+        "description": ""
+    },
+    {
+        "name": "Stormguard AA System",
+        "category": "enemy",
+        "progress": 67,
+        "description": ""
+    },
+    {
+        "name": "Fort Locust",
+        "category": "enemy",
+        "progress": 68,
+        "description": ""
+    },
+    {
+        "name": "73rd State Nuclear Silo",
+        "category": "premade",
+        "progress": 69,
+        "description": ""
+    },
+    {
+        "name": "Jupiter ICBM Vaults",
+        "category": "enemy",
+        "progress": 69,
+        "description": ""
+    },
+    {
+        "name": "Thorn Valley",
+        "category": "enemy",
+        "progress": 70,
+        "description": ""
+    },
+    {
+        "name": "Central Intelligence Command",
+        "category": "enemy",
+        "progress": 71,
+        "description": ""
+    },
+    {
+        "name": "Tribune Missile Pod",
+        "category": "enemy",
+        "progress": 72,
+        "description": ""
+    },
+    {
+        "name": "Jericho Fortress",
+        "category": "enemy",
+        "progress": 73,
+        "description": ""
+    },
+    {
+        "name": "FORTRESS RESOLUTION",
+        "category": "customizable",
+        "progress": 73,
+        "description": "Stronger will shall triumph!"
+    },
+    {
+        "name": "Wrath Capital Destroyer",
+        "category": "enemy",
+        "progress": 74,
+        "description": ""
+    },
+    {
+        "name": "Flakk Citadel XV",
+        "category": "enemy",
+        "progress": 75,
+        "description": ""
+    },
+    {
+        "name": "Gold Mine",
+        "category": "enemy",
+        "progress": 76,
+        "description": ""
+    },
+    {
+        "name": "Starlight Prime",
+        "category": "enemy",
+        "progress": 77,
+        "description": ""
+    },
+    {
+        "name": "IXth Artillery Legion",
+        "category": "enemy",
+        "progress": 78,
+        "description": ""
+    },
+    {
+        "name": "Krux Guard Camp",
+        "category": "enemy",
+        "progress": 79,
+        "description": ""
+    },
+    {
+        "name": "Railroad Terminal XL",
+        "category": "enemy",
+        "progress": 80,
+        "description": ""
+    },
+    {
+        "name": "Molehill",
+        "category": "enemy",
+        "progress": 81,
+        "description": ""
+    },
+    {
+        "name": "Karax Crags",
+        "category": "enemy",
+        "progress": 82,
+        "description": ""
+    },
+    {
+        "name": "SST Invictus",
+        "category": "enemy",
+        "progress": 83,
+        "description": ""
+    },
+    {
+        "name": "Tribune Missile Pod",
+        "category": "enemy",
+        "progress": 84,
+        "description": ""
+    },
+    {
+        "name": "Fort Apocalypse",
+        "category": "enemy",
+        "progress": 85,
+        "description": ""
+    },
+    {
+        "name": "Krux Military Academy",
+        "category": "enemy",
+        "progress": 86,
+        "description": ""
+    },
+    {
+        "name": "Sol Tyranus",
+        "category": "enemy",
+        "progress": 87,
+        "description": ""
+    },
+    {
+        "name": "Mount Sepulcher",
+        "category": "enemy",
+        "progress": 88,
+        "description": ""
+    },
+    {
+        "name": "Minerva Reactor Citadel",
+        "category": "enemy",
+        "progress": 89,
+        "description": ""
+    },
+    {
+        "name": "Orcus Gorge",
+        "category": "enemy",
+        "progress": 90,
+        "description": ""
+    },
+    {
+        "name": "Krixus Silos",
+        "category": "enemy",
+        "progress": 91,
+        "description": ""
+    },
+    {
+        "name": "Sierra Thrax",
+        "category": "enemy",
+        "progress": 92,
+        "description": ""
+    },
+    {
+        "name": "Fortress Mars",
+        "category": "enemy",
+        "progress": 93,
+        "description": ""
+    },
+    {
+        "name": "Janus Viaduct",
+        "category": "enemy",
+        "progress": 94,
+        "description": ""
+    },
+    {
+        "name": "Remus Capital Outskirts",
+        "category": "enemy",
+        "progress": 95,
+        "description": ""
+    },
+    {
+        "name": "Fortress Octopuss",
+        "category": "enemy",
+        "progress": 96,
+        "description": ""
+    },
+    {
+        "name": "Remus Factorium",
+        "category": "enemy",
+        "progress": 97,
+        "description": ""
+    },
+    {
+        "name": "Remus Capital of Krux",
+        "category": "enemy",
+        "progress": 98,
+        "description": ""
+    },
+    {
+        "name": "Fortress Rubicon",
+        "category": "enemy",
+        "progress": 99,
+        "description": ""
+    },
+    {
+        "name": "FORTRESS RUBICON",
+        "category": "customizable",
+        "progress": 99,
+        "description": "The die is cast."
+    },
+    {
+        "name": "General Grauen",
+        "category": "enemy",
+        "progress": 100,
+        "description": ""
+    },
+    {
+        "name": "General Leibholz",
+        "category": "enemy",
+        "progress": 101,
+        "description": ""
+    },
+    {
+        "name": "General Spector",
+        "category": "enemy",
+        "progress": 102,
+        "description": ""
+    },
+    {
+        "name": "General Morgenstern",
+        "category": "enemy",
+        "progress": 103,
+        "description": ""
+    },
+    {
+        "name": "General Hass",
+        "category": "enemy",
+        "progress": 104,
+        "description": ""
+    }
+]

@@ -1,0 +1,208 @@
+Blast Engine
+Burning and beating iron heart of nigh every sizeable battle fortress.
+The age-old technology of a blast engine consumes ammunition to generate substantial amounts of power.
+One stoker doubles the machine's power output by +3.
+Destruction of the blast engine will cause fire.
+Further upgrades increase the rate of ammunition consumption for even greater power yields.
+
+Blast Engine Mk II
+Burning and beating iron heart of nigh every sizeable battle fortress.
+The age-old technology of a blast engine consumes ammunition to generate substantial amounts of power.
+One stoker doubles the machine's power output by +4.
+Destruction of the blast engine will cause fire.
+Next upgrade increases the rate of ammunition consumption for even greater power yield.
+
+Blast Engine Mk III
+Burning and beating iron heart of nigh every sizeable battle fortress.
+The age-old technology of a blast engine consumes ammunition to generate substantial amounts of power.
+One stoker doubles the machine's power output by +5.
+Destruction of the blast engine will cause fire.
+
+
+Nuclear Reactor
+Silently humming behind the great seal, there lies an experimental core of immense atomic power.
+Nuclear reactor does not need to be operated by a machinist and provides steady +5 power at zero ammunition cost.
+Causes nuclear blast upon destruction.
+Upgrade improves durability and power output.
+
+Nuclear Reactor II
+Silently humming behind the great seal, there lies an experimental core of immense atomic power.
+Nuclear reactor II does not need to be operated by a machinist and provides steady +9 power at zero ammunition cost.
+Causes nuclear blast upon destruction.
+
+
+Active Defense Control
+Mainframe of the defense network, controls all connected anti-aircraft, anti-missiles and anti-ballistic interceptor turrets. Underlying processors calculate counter-measures against impending dangers at an impossible speed.
+Operator stationed at the control panel dramatically improves the performance of every defense turret type.
+Further upgrades improve durability and decrease power consumption.
+
+Active Defense Control II
+Mainframe of the defense network, controls all connected anti-aircraft, anti-missiles and anti-ballistic interceptor turrets. Underlying processors calculate counter-measures against impending dangers at an impossible speed.
+Operator stationed at the control panel dramatically improves the performance of every defense turret type.
+Upgrade improves durability and decreases power consumption.
+
+Active Defense Control III
+Mainframe of the defense network, controls all connected anti-aircraft, anti-missiles and anti-ballistic interceptor turrets. Underlying processors calculate counter-measures against impending dangers at an impossible speed.
+Operator stationed at the control panel dramatically improves the performance of every defense turret type.
+Upgrade improves durability and decreases power consumption.
+
+
+Munitions Depot
+In the underground factories all over the world, billions of civilian workers labor tirelessly day and night to keep the mighty hammer of State artillery pounding. Mechanized depots receive factory-fresh ammunition and redistribute it quickly to all active weapons throughout the fortress.
+Without a sufficient supply of ammunition, our overall rate of fire drops down to 75%, 50% even to a staggering 25%.
+Destruction of Munitions Depot will cause fire.
+Munitions Depot provides +5 ammunition.
+Two workers significantly speed up the process, contributing additional +5 ammunition each.
+Further upgrades improve durability and ammunition production.
+
+Munitions Depot II
+In the underground factories all over the world, billions of civilian workers labor tirelessly day and night to keep the mighty hammer of State artillery pounding. Mechanized depots receive factory-fresh ammunition and redistribute it quickly to all active weapons throughout the fortress.
+Without a sufficient supply of ammunition, our overall rate of fire drops down to 75%, 50% even to a staggering 25%.
+Destruction of Munitions Depot will cause fire.
+Munitions Depot II provides +6 ammunition.
+Two workers significantly speed up the process, contributing additional +6 ammunition each.
+
+Munitions Depot III
+In the underground factories all over the world, billions of civilian workers labor tirelessly day and night to keep the mighty hammer of State artillery pounding. Mechanized depots receive factory-fresh ammunition and redistribute it quickly to all active weapons throughout the fortress.
+Without a sufficient supply of ammunition, our overall rate of fire drops down to 75%, 50% even to a staggering 25%.
+Destruction of Munitions Depot will cause fire.
+Munitions Depot III provides +7 ammunition.
+Two workers significantly speed up the process, contributing additional +7 ammunition each.
+
+
+Ballistic Radar & EWS
+In the world where danger hides behind the curtains of smoke clouds, dust blizzards and static storms, where ceaseless artillery shelling constantly transforms both the landscape and the troposphere constantly, only the radar and sonar technologies speak truth about enemy positions.
+Early Warning System (EWS) predicts the impact zones of enemy projectiles and flashes the targeted rooms in red.
+Ballistic radar provides our guns with reliable targeting data,
+adding +5% to their accuracy.
+Operator clarifies the readings for another +10% accuracy added.
+Further upgrades increase the overall accuracy bonus.
+
+Ballistic Radar & EWS II
+In the world where danger hides behind the curtains of smoke clouds, dust blizzards and static storms, where ceaseless artillery shelling constantly transforms both the landscape and the troposphere constantly, only the radar and sonar technologies speak truth about enemy positions.
+Early Warning System (EWS) predicts the impact zones of enemy projectiles and flashes the targeted rooms in red.
+Ballistic radar II provides our guns with reliable targeting data, adding +8% to their accuracy.
+Operator clarifies the readings for another +12% accuracy added.
+Upgrade increases the overall accuracy bonus.
+
+Ballistic Radar & EWS III
+In the world where danger hides behind the curtains of smoke clouds, dust blizzards and static storms, where ceaseless artillery shelling constantly transforms both the landscape and the troposphere constantly, only the radar and sonar technologies speak truth about enemy positions.
+Early Warning System (EWS) predicts the impact zones of enemy projectiles and flashes the targeted rooms in red.
+Ballistic radar III provides our guns with reliable targeting data, adding +10% to their accuracy.
+Operator clarifies the readings for another +15% accuracy added.
+
+
+Armory
+Even though small arms combat has been all but superseded by the long distance artillery warfare, infantry still remains to be the vital force inside every battle fortress.
+Armory grants infantry assault machine-guns and body armor.
+Assault machine-guns vastly outperform standard issue combat rifles, allowing soldiers to repel enemy invaders or storm an opposing fortress with ease.
+Body armor reduces all damage done to infantry by 5%
+Armory also serves as a SHELTER, protecting stationed infantry by mitigating some of the incoming damage.
+Upgrades improve durability and infantry body armor.
+
+Enhanced Gear Armory
+Even though small arms combat has been all but superseded by the long distance artillery warfare, infantry still remains to be the vital force inside every battle fortress.
+Armory grants infantry assault machine-guns and body armor.
+Assault machine-guns vastly outperform standard issue combat rifles, allowing soldiers to repel enemy invaders or storm an opposing fortress with ease.
+Enhanced body armor reduces all damage done to infantry by 12%
+Armory also serves as a SHELTER, protecting stationed infantry by mitigating some of the incoming damage.
+Upgrade improves durability and infantry body armor.
+
+Elite Forces Armory
+Even though small arms combat has been all but superseded by the long distance artillery warfare, infantry still remains to be the vital force inside every battle fortress.
+Armory grants infantry assault machine-guns and body armor.
+Assault machine-guns vastly outperform standard issue combat rifles, allowing soldiers to repel enemy invaders or storm an opposing fortress with ease.
+Elite forces body armor reduces all damage done to infantry by 20%
+Armory also serves as a SHELTER, protecting stationed infantry by mitigating some of the incoming damage.
+
+
+Clandestine Operations
+"All we need is a black budget, a couple of mind-control drugs, satellite phone and one psycho on the other side."
+Clandestine operations center allows you to recruit one of the enemy soldiers and infiltrate their base without the risks involved in a regular military invasion.
+Requires one stationed intelligence officer to prepare the infiltration.
+Upgrade improves durability and shortens the time of preparations.
+
+Clandestine Operations II
+"All we need is a black budget, a couple of mind-control drugs, satellite phone and one psycho on the other side."
+Clandestine operations center allows you to recruit one of the enemy soldiers and infiltrate their base without the risks involved in a regular military invasion.
+Requires one stationed intelligence officer to prepare the infiltration.
+Upgrade improves durability and shortens the time of preparations.
+
+
+Medical Ray Station
+Bright like the fabled pre-war sun, the pervasive light of the Medical Ray burns the pain away. Cauterizing even the deepest wounds, bioactive isoray collimator stops external bleeding as well as internal hemorrhaging. Irradiated brain forgets all trauma and may once again focus on the task at hand.
+Fragile equipment.
+Healing makes dying soldiers report back for duty in just a few seconds.
+Upgrades improve durability and healing power of the collimator.
+
+Medical Ray Station II
+Bright like the fabled pre-war sun, the pervasive light of the Medical Ray burns the pain away. Cauterizing even the deepest wounds, bioactive isoray collimator stops external bleeding as well as internal hemorrhaging. Irradiated brain forgets all trauma and may once again focus on the task at hand.
+Fragile equipment.
+150% Healing makes dying soldiers report back for duty in just few seconds.
+Upgrade improves durability and healing power of the collimator.
+
+Medical Ray Station III
+Bright like the fabled pre-war sun, the pervasive light of the Medical Ray burns the pain away. Cauterizing even the deepest wounds, bioactive isoray collimator stops external bleeding as well as internal hemorrhaging. Irradiated brain forgets all trauma and may once again focus on the task at hand.
+Fragile equipment.
+200% Healing makes dying soldiers report back for duty in seconds.
+
+
+Fleet Command
+Calculates the flight path and navigates airships through the thick soup of poisonous clouds and static storms that our war-torn skies have become. Under the impossible conditions of violent atmospherics and zero visibility, our fleet is wholly dependent on the remote control provided by Fleet Command's supercomputer.
+Calls on one jet-propelled transport airship which can carry up to 4 paratroopers, or a bomber airship carrying single extremely potent EMP bomb.
+Airships may travel back for repairs, to return wounded soldiers, bring reinforcements or to replenish a payload.
+Navigator doubles the airships' speed, reducing their time of arrival by 80%.
+Next Airship: Transport
+Next Airship: EMP Bomber
+Further upgrades improve durability and reduce the time of arrival.
+
+Fleet Command II
+Calculates the flight path and navigates airships through the thick soup of poisonous clouds and static storms that our war-torn skies have become. Under the impossible conditions of violent atmospherics and zero visibility, our fleet is wholly dependent on the remote control provided by Fleet Command's supercomputer.
+Calls on one jet-propelled transport airship which can carry up to 4 paratroopers, or a bomber airship carrying single extremely potent EMP bomb.
+Airships may travel back for repairs, to return wounded soldiers, bring reinforcements or to replenish a payload.
+Navigator doubles the airships' speed, reducing their time of arrival by 80%.
+Next Airship: Transport
+Next Airship: EMP Bomber
+Upgrade improves durability and reduces the time of arrival.
+
+Fleet High Command III
+Calculates the flight path and navigates airships through the thick soup of poisonous clouds and static storms that our war-torn skies have become. Under the impossible conditions of violent atmospherics and zero visibility, our fleet is wholly dependent on the remote control provided by Fleet Command's supercomputer.
+Calls on one jet-propelled transport airship which can carry up to 4 paratroopers, or a bomber airship carrying single extremely potent EMP bomb.
+Airships may travel back for repairs, to return wounded soldiers, bring reinforcements or to replenish a payload.
+Navigator doubles the airships' speed, reducing their time of arrival by 80%.
+Next Airship: Transport
+Next Airship: EMP Bomber
+Upgrade improves durability and reduces the time of arrival.
+
+
+Kinetic Shield Core
+Processors around the core track the incoming projectile and compute its exact point of entry into the hexagonal matrix, directing strong electromagnetic force against the impact. Resulting collision explodes the projectile, temporarily disintegrating the matrix.
+Kinetic Shield stops 10 damage before disintegration.
+Cannot stop beam weapons, guided missiles and airship bombs.
+Any damage inflicted upon the core weakens the integrity of hexagonal matrix.
+Three operators increase the speed of matrix restoration to 160%.
+Fully operated Kinetic Shield stops up to 40 damage before disintegration.
+
+Advanced Kinetic Shield Core
+Processors around the core track the incoming projectile and compute its exact point of entry into the hexagonal matrix, directing strong electromagnetic force against the impact. Resulting collision explodes the projectile, temporarily disintegrating the matrix.
+Advanced Kinetic Shield stops 10 damage before disintegration.
+Cannot stop beam weapons, guided missiles and airship bombs.
+Any damage inflicted upon the core weakens the integrity of hexagonal matrix.
+Four operators increase the speed of matrix restoration to 190%.
+Fully operated Advanced Kinetic Shield stops up to 50 damage before disintegration.
+Advanced Kinetic Shield Core serves as a SHELTER, protecting stationed infantry by mitigating some of the incoming damage.
+
+
+Scrambler Signal Relay
+Experimental defense system uses powerful spherical hadron caster to release large quantities of highly volatile hexa-quarks into the atmosphere, creating a temporary gluon shield over the immediate surroundings.
+All incoming projectiles will miss their targets.
+Guided missiles, including ICBMs, become vulnerable to a predatory code delivered via the scrambler signal and turn midair to attack their own launch pads.
+Two operators reduce the recharging period by -40%.
+Upgrade improves the durability and shortens the base recharge time.
+
+Scrambler Signal Relay Mk II
+Experimental defense system uses powerful spherical hadron caster to release large quantities of highly volatile hexa-quarks into the atmosphere, creating a temporary gluon shield over the immediate surroundings.
+All incoming projectiles will miss their targets.
+Guided missiles, including ICBMs, become vulnerable to a predatory code delivered via the scrambler signal and turn midair to attack their own launch pads.
+Two operators reduce the recharging period by -40%.
+Upgrade improves the durability and shortens the base recharge time.

@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Blast Engine",
+        "tiers": [
+            {
+                "name": "Blast Engine",
+                "description": "Burning and beating iron heart of nigh every sizeable battle fortress.\nThe age-old technology of a blast engine consumes ammunition to generate substantial amounts of power.\nOne stoker doubles the machine's power output by +3.\nDestruction of the blast engine will cause fire.\nFurther upgrades increase the rate of ammunition consumption for even greater power yields.",
+                "tier": 1
+            },
+            {
+                "name": "Blast Engine Mk II",
+                "description": "Burning and beating iron heart of nigh every sizeable battle fortress.\nThe age-old technology of a blast engine consumes ammunition to generate substantial amounts of power.\nOne stoker doubles the machine's power output by +4.\nDestruction of the blast engine will cause fire.\nNext upgrade increases the rate of ammunition consumption for even greater power yield.",
+                "tier": 2
+            },
+            {
+                "name": "Blast Engine Mk III",
+                "description": "Burning and beating iron heart of nigh every sizeable battle fortress.\nThe age-old technology of a blast engine consumes ammunition to generate substantial amounts of power.\nOne stoker doubles the machine's power output by +5.\nDestruction of the blast engine will cause fire.",
+                "tier": 3
+            }
+        ]
+    },
+    {
+        "name": "Nuclear Reactor",
+        "tiers": [
+            {
+                "name": "Nuclear Reactor",
+                "description": "Silently humming behind the great seal, there lies an experimental core of immense atomic power.\nNuclear reactor does not need to be operated by a machinist and provides steady +5 power at zero ammunition cost.\nCauses nuclear blast upon destruction.\nUpgrade improves durability and power output.",
+                "tier": 1
+            },
+            {
+                "name": "Nuclear Reactor II",
+                "description": "Silently humming behind the great seal, there lies an experimental core of immense atomic power.\nNuclear reactor II does not need to be operated by a machinist and provides steady +9 power at zero ammunition cost.\nCauses nuclear blast upon destruction.",
+                "tier": 2
+            }
+        ]
+    },
+    {
+        "name": "Active Defense Control",
+        "tiers": [
+            {
+                "name": "Active Defense Control",
+                "description": "Mainframe of the defense network, controls all connected anti-aircraft, anti-missiles and anti-ballistic interceptor turrets. Underlying processors calculate counter-measures against impending dangers at an impossible speed.\nOperator stationed at the control panel dramatically improves the performance of every defense turret type.\nFurther upgrades improve durability and decrease power consumption.",
+                "tier": 1
+            },
+            {
+                "name": "Active Defense Control II",
+                "description": "Mainframe of the defense network, controls all connected anti-aircraft, anti-missiles and anti-ballistic interceptor turrets. Underlying processors calculate counter-measures against impending dangers at an impossible speed.\nOperator stationed at the control panel dramatically improves the performance of every defense turret type.\nUpgrade improves durability and decreases power consumption.",
+                "tier": 2
+            },
+            {
+                "name": "Active Defense Control III",
+                "description": "Mainframe of the defense network, controls all connected anti-aircraft, anti-missiles and anti-ballistic interceptor turrets. Underlying processors calculate counter-measures against impending dangers at an impossible speed.\nOperator stationed at the control panel dramatically improves the performance of every defense turret type.\nUpgrade improves durability and decreases power consumption.",
+                "tier": 3
+            }
+        ]
+    },
+    {
+        "name": "Munitions Depot",
+        "tiers": [
+            {
+                "name": "Munitions Depot",
+                "description": "In the underground factories all over the world, billions of civilian workers labor tirelessly day and night to keep the mighty hammer of State artillery pounding. Mechanized depots receive factory-fresh ammunition and redistribute it quickly to all active weapons throughout the fortress.\nWithout a sufficient supply of ammunition, our overall rate of fire drops down to 75%, 50% even to a staggering 25%.\nDestruction of Munitions Depot will cause fire.\nMunitions Depot provides +5 ammunition.\nTwo workers significantly speed up the process, contributing additional +5 ammunition each.\nFurther upgrades improve durability and ammunition production.",
+                "tier": 1
+            },
+            {
+                "name": "Munitions Depot II",
+                "description": "In the underground factories all over the world, billions of civilian workers labor tirelessly day and night to keep the mighty hammer of State artillery pounding. Mechanized depots receive factory-fresh ammunition and redistribute it quickly to all active weapons throughout the fortress.\nWithout a sufficient supply of ammunition, our overall rate of fire drops down to 75%, 50% even to a staggering 25%.\nDestruction of Munitions Depot will cause fire.\nMunitions Depot II provides +6 ammunition.\nTwo workers significantly speed up the process, contributing additional +6 ammunition each.",
+                "tier": 2
+            },
+            {
+                "name": "Munitions Depot III",
+                "description": "In the underground factories all over the world, billions of civilian workers labor tirelessly day and night to keep the mighty hammer of State artillery pounding. Mechanized depots receive factory-fresh ammunition and redistribute it quickly to all active weapons throughout the fortress.\nWithout a sufficient supply of ammunition, our overall rate of fire drops down to 75%, 50% even to a staggering 25%.\nDestruction of Munitions Depot will cause fire.\nMunitions Depot III provides +7 ammunition.\nTwo workers significantly speed up the process, contributing additional +7 ammunition each.",
+                "tier": 3
+            }
+        ]
+    },
+    {
+        "name": "Ballistic Radar & EWS",
+        "tiers": [
+            {
+                "name": "Ballistic Radar & EWS",
+                "description": "In the world where danger hides behind the curtains of smoke clouds, dust blizzards and static storms, where ceaseless artillery shelling constantly transforms both the landscape and the troposphere constantly, only the radar and sonar technologies speak truth about enemy positions.\nEarly Warning System (EWS) predicts the impact zones of enemy projectiles and flashes the targeted rooms in red.\nBallistic radar provides our guns with reliable targeting data,\nadding +5% to their accuracy.\nOperator clarifies the readings for another +10% accuracy added.\nFurther upgrades increase the overall accuracy bonus.",
+                "tier": 1
+            },
+            {
+                "name": "Ballistic Radar & EWS II",
+                "description": "In the world where danger hides behind the curtains of smoke clouds, dust blizzards and static storms, where ceaseless artillery shelling constantly transforms both the landscape and the troposphere constantly, only the radar and sonar technologies speak truth about enemy positions.\nEarly Warning System (EWS) predicts the impact zones of enemy projectiles and flashes the targeted rooms in red.\nBallistic radar II provides our guns with reliable targeting data, adding +8% to their accuracy.\nOperator clarifies the readings for another +12% accuracy added.\nUpgrade increases the overall accuracy bonus.",
+                "tier": 2
+            },
+            {
+                "name": "Ballistic Radar & EWS III",
+                "description": "In the world where danger hides behind the curtains of smoke clouds, dust blizzards and static storms, where ceaseless artillery shelling constantly transforms both the landscape and the troposphere constantly, only the radar and sonar technologies speak truth about enemy positions.\nEarly Warning System (EWS) predicts the impact zones of enemy projectiles and flashes the targeted rooms in red.\nBallistic radar III provides our guns with reliable targeting data, adding +10% to their accuracy.\nOperator clarifies the readings for another +15% accuracy added.",
+                "tier": 3
+            }
+        ]
+    },
+    {
+        "name": "Armory",
+        "tiers": [
+            {
+                "name": "Armory",
+                "description": "Even though small arms combat has been all but superseded by the long distance artillery warfare, infantry still remains to be the vital force inside every battle fortress.\nArmory grants infantry assault machine-guns and body armor.\nAssault machine-guns vastly outperform standard issue combat rifles, allowing soldiers to repel enemy invaders or storm an opposing fortress with ease.\nBody armor reduces all damage done to infantry by 5%\nArmory also serves as a SHELTER, protecting stationed infantry by mitigating some of the incoming damage.\nUpgrades improve durability and infantry body armor.",
+                "tier": 1
+            },
+            {
+                "name": "Enhanced Gear Armory",
+                "description": "Even though small arms combat has been all but superseded by the long distance artillery warfare, infantry still remains to be the vital force inside every battle fortress.\nArmory grants infantry assault machine-guns and body armor.\nAssault machine-guns vastly outperform standard issue combat rifles, allowing soldiers to repel enemy invaders or storm an opposing fortress with ease.\nEnhanced body armor reduces all damage done to infantry by 12%\nArmory also serves as a SHELTER, protecting stationed infantry by mitigating some of the incoming damage.\nUpgrade improves durability and infantry body armor.",
+                "tier": 2
+            },
+            {
+                "name": "Elite Forces Armory",
+                "description": "Even though small arms combat has been all but superseded by the long distance artillery warfare, infantry still remains to be the vital force inside every battle fortress.\nArmory grants infantry assault machine-guns and body armor.\nAssault machine-guns vastly outperform standard issue combat rifles, allowing soldiers to repel enemy invaders or storm an opposing fortress with ease.\nElite forces body armor reduces all damage done to infantry by 20%\nArmory also serves as a SHELTER, protecting stationed infantry by mitigating some of the incoming damage.",
+                "tier": 3
+            }
+        ]
+    },
+    {
+        "name": "Clandestine Operations",
+        "tiers": [
+            {
+                "name": "Clandestine Operations",
+                "description": "\"All we need is a black budget, a couple of mind-control drugs, satellite phone and one psycho on the other side.\"\nClandestine operations center allows you to recruit one of the enemy soldiers and infiltrate their base without the risks involved in a regular military invasion.\nRequires one stationed intelligence officer to prepare the infiltration.\nUpgrade improves durability and shortens the time of preparations.",
+                "tier": 1
+            },
+            {
+                "name": "Clandestine Operations II",
+                "description": "\"All we need is a black budget, a couple of mind-control drugs, satellite phone and one psycho on the other side.\"\nClandestine operations center allows you to recruit one of the enemy soldiers and infiltrate their base without the risks involved in a regular military invasion.\nRequires one stationed intelligence officer to prepare the infiltration.\nUpgrade improves durability and shortens the time of preparations.",
+                "tier": 2
+            }
+        ]
+    },
+    {
+        "name": "Medical Ray Station",
+        "tiers": [
+            {
+                "name": "Medical Ray Station",
+                "description": "Bright like the fabled pre-war sun, the pervasive light of the Medical Ray burns the pain away. Cauterizing even the deepest wounds, bioactive isoray collimator stops external bleeding as well as internal hemorrhaging. Irradiated brain forgets all trauma and may once again focus on the task at hand.\nFragile equipment.\nHealing makes dying soldiers report back for duty in just a few seconds.\nUpgrades improve durability and healing power of the collimator.",
+                "tier": 1
+            },
+            {
+                "name": "Medical Ray Station II",
+                "description": "Bright like the fabled pre-war sun, the pervasive light of the Medical Ray burns the pain away. Cauterizing even the deepest wounds, bioactive isoray collimator stops external bleeding as well as internal hemorrhaging. Irradiated brain forgets all trauma and may once again focus on the task at hand.\nFragile equipment.\n150% Healing makes dying soldiers report back for duty in just few seconds.\nUpgrade improves durability and healing power of the collimator.",
+                "tier": 2
+            },
+            {
+                "name": "Medical Ray Station III",
+                "description": "Bright like the fabled pre-war sun, the pervasive light of the Medical Ray burns the pain away. Cauterizing even the deepest wounds, bioactive isoray collimator stops external bleeding as well as internal hemorrhaging. Irradiated brain forgets all trauma and may once again focus on the task at hand.\nFragile equipment.\n200% Healing makes dying soldiers report back for duty in seconds.",
+                "tier": 3
+            }
+        ]
+    },
+    {
+        "name": "Fleet Command",
+        "tiers": [
+            {
+                "name": "Fleet Command",
+                "description": "Calculates the flight path and navigates airships through the thick soup of poisonous clouds and static storms that our war-torn skies have become. Under the impossible conditions of violent atmospherics and zero visibility, our fleet is wholly dependent on the remote control provided by Fleet Command's supercomputer.\nCalls on one jet-propelled transport airship which can carry up to 4 paratroopers, or a bomber airship carrying single extremely potent EMP bomb.\nAirships may travel back for repairs, to return wounded soldiers, bring reinforcements or to replenish a payload.\nNavigator doubles the airships' speed, reducing their time of arrival by 80%.\nNext Airship: Transport\nNext Airship: EMP Bomber\nFurther upgrades improve durability and reduce the time of arrival.",
+                "tier": 1
+            },
+            {
+                "name": "Fleet Command II",
+                "description": "Calculates the flight path and navigates airships through the thick soup of poisonous clouds and static storms that our war-torn skies have become. Under the impossible conditions of violent atmospherics and zero visibility, our fleet is wholly dependent on the remote control provided by Fleet Command's supercomputer.\nCalls on one jet-propelled transport airship which can carry up to 4 paratroopers, or a bomber airship carrying single extremely potent EMP bomb.\nAirships may travel back for repairs, to return wounded soldiers, bring reinforcements or to replenish a payload.\nNavigator doubles the airships' speed, reducing their time of arrival by 80%.\nNext Airship: Transport\nNext Airship: EMP Bomber\nUpgrade improves durability and reduces the time of arrival.",
+                "tier": 2
+            },
+            {
+                "name": "Fleet High Command III",
+                "description": "Calculates the flight path and navigates airships through the thick soup of poisonous clouds and static storms that our war-torn skies have become. Under the impossible conditions of violent atmospherics and zero visibility, our fleet is wholly dependent on the remote control provided by Fleet Command's supercomputer.\nCalls on one jet-propelled transport airship which can carry up to 4 paratroopers, or a bomber airship carrying single extremely potent EMP bomb.\nAirships may travel back for repairs, to return wounded soldiers, bring reinforcements or to replenish a payload.\nNavigator doubles the airships' speed, reducing their time of arrival by 80%.\nNext Airship: Transport\nNext Airship: EMP Bomber\nUpgrade improves durability and reduces the time of arrival.",
+                "tier": 3
+            }
+        ]
+    },
+    {
+        "name": "Kinetic Shield Core",
+        "tiers": [
+            {
+                "name": "Kinetic Shield Core",
+                "description": "Processors around the core track the incoming projectile and compute its exact point of entry into the hexagonal matrix, directing strong electromagnetic force against the impact. Resulting collision explodes the projectile, temporarily disintegrating the matrix.\nKinetic Shield stops 10 damage before disintegration.\nCannot stop beam weapons, guided missiles and airship bombs.\nAny damage inflicted upon the core weakens the integrity of hexagonal matrix.\nThree operators increase the speed of matrix restoration to 160%.\nFully operated Kinetic Shield stops up to 40 damage before disintegration.",
+                "tier": 1
+            },
+            {
+                "name": "Advanced Kinetic Shield Core",
+                "description": "Processors around the core track the incoming projectile and compute its exact point of entry into the hexagonal matrix, directing strong electromagnetic force against the impact. Resulting collision explodes the projectile, temporarily disintegrating the matrix.\nAdvanced Kinetic Shield stops 10 damage before disintegration.\nCannot stop beam weapons, guided missiles and airship bombs.\nAny damage inflicted upon the core weakens the integrity of hexagonal matrix.\nFour operators increase the speed of matrix restoration to 190%.\nFully operated Advanced Kinetic Shield stops up to 50 damage before disintegration.\nAdvanced Kinetic Shield Core serves as a SHELTER, protecting stationed infantry by mitigating some of the incoming damage.",
+                "tier": 2
+            }
+        ]
+    },
+    {
+        "name": "Scrambler Signal Relay",
+        "tiers": [
+            {
+                "name": "Scrambler Signal Relay",
+                "description": "Experimental defense system uses powerful spherical hadron caster to release large quantities of highly volatile hexa-quarks into the atmosphere, creating a temporary gluon shield over the immediate surroundings.\nAll incoming projectiles will miss their targets.\nGuided missiles, including ICBMs, become vulnerable to a predatory code delivered via the scrambler signal and turn midair to attack their own launch pads.\nTwo operators reduce the recharging period by -40%.\nUpgrade improves the durability and shortens the base recharge time.",
+                "tier": 1
+            },
+            {
+                "name": "Scrambler Signal Relay Mk II",
+                "description": "Experimental defense system uses powerful spherical hadron caster to release large quantities of highly volatile hexa-quarks into the atmosphere, creating a temporary gluon shield over the immediate surroundings.\nAll incoming projectiles will miss their targets.\nGuided missiles, including ICBMs, become vulnerable to a predatory code delivered via the scrambler signal and turn midair to attack their own launch pads.\nTwo operators reduce the recharging period by -40%.\nUpgrade improves the durability and shortens the base recharge time.",
+                "tier": 2
+            }
+        ]
+    }
+]

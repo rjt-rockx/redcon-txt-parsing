@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Order of the Golden Lion",
+        "description": "You've upgraded to a premium edition.",
+        "credits": 100,
+        "experience": 20,
+        "perkDropChance": 2
+    },
+    {
+        "name": "Iron Cross of Valor",
+        "description": "You've killed enemy soldiers with fire, toxin, shells and bullets.",
+        "credits": 25,
+        "experience": 10,
+        "perkDropChance": 2
+    },
+    {
+        "name": "Cannon Corps Superior Service",
+        "description": "You've won 6 consecutive battles after EXP level 3.",
+        "credits": 25,
+        "experience": 10,
+        "perkDropChance": 2
+    },
+    {
+        "name": "Strike Commander Belligerent",
+        "description": "You've completed 12 successful takeovers.",
+        "credits": 25,
+        "experience": 10,
+        "perkDropChance": 2
+    },
+    {
+        "name": "Destroyer First Class",
+        "description": "You've killed 100 enemy soldiers.",
+        "credits": 25,
+        "experience": 10,
+        "perkDropChance": 2
+    },
+    {
+        "name": "Great Master of Ordnance",
+        "description": "You've won 100 battles in the Krux Campaign.",
+        "credits": 50,
+        "experience": 20,
+        "perkDropChance": 2
+    }
+]

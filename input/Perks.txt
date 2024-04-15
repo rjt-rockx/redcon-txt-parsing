@@ -1,0 +1,188 @@
+ADVANCED AUTOLOADERS
+Cannons reload 3% faster.
+Cannons reload 4% faster.
+Cannons reload 5% faster.
+
+BOMBARDMENT
+All mortar bombs deal 5% more damage.
+All mortar bombs deal 7% more damage.
+All mortar bombs deal 9% more damage. 
+
+ROCKETEERING
+Missile launchers reload 4% faster.
+Missile launchers reload 5% faster.
+Missile launchers reload 6% faster.
+
+BLAST DOORS
+Fire spreads throughout the fortress 15% slower.
+Fire spreads throughout the fortress 20% slower.
+Fire spreads throughout the fortress 25% slower. 
+
+CONDENSED NAPALM 
+Fire from incendiary weapons spreads 10% faster. 
+Fire from incendiary weapons spreads 15% faster. 
+Fire from incendiary weapons spreads 20% faster. 
+
+DEATH CLOUD
+Neurotoxin kills 20% faster and lasts 10% longer. 
+Neurotoxin kills 30% faster and lasts 15% longer. 
+Neurotoxin kills 40% faster and lasts 20% longer. 
+
+RAPID VENTILATION 
+Toxic contamination dissipates 20% faster. 
+Toxic contamination dissipates 25% faster. 
+Toxic contamination dissipates 30% faster. 
+
+SUPERCONCRETE 
+Fortress sustains 4% more structural damage. 
+Fortress sustains 6% more structural damage. 
+Fortress sustains 8% more structural damage. 
+
+WAR HAMMERS 
+Soldiers repair 2% faster. 
+Soldiers repair 4% faster. 
+Soldiers repair 6% faster. 	
+
+JACKBOOTS 
+Soldiers run 50% faster. 
+
+TITANIUM JACKHAMMERS 
+Soldiers tear down enemy equipment 40% faster. 
+Soldiers tear down enemy equipment 50% faster. 
+Soldiers tear down enemy equipment 60% faster. 
+
+CUSHIONED HELMETS 
+Soldiers recover from stun 20% faster. 
+Soldiers recover from stun 25% faster. 
+Soldiers recover from stun 30% faster. 
+
+MICROFILTRATION 
+Soldiers survive in contaminated zones. 
+
+ASBESTOS COATING 
+Soldiers are 20% more resistant to flames. 
+Soldiers are 30% more resistant to flames. 
+Soldiers are 40% more resistant to flames. 
+
+PAINKILLERS 
+Soldiers gain 4% more health. 
+Soldiers gain 6% more health. 
+Soldiers gain 8% more health.
+
+LUCKY SHOT 
+Converts 6% missed shots to hits.
+Converts 7% missed shots to hits. 
+Converts 8% missed shots to hits. 
+
+CAMOUFLAGE 
+Enemy has +3% chance to miss.
+Enemy has +4% chance to miss.
+Enemy has +5% chance to miss. 
+
+POWERCELLS
++1 Power supply.
++1 Power supply.
++1 Power supply.
+
+SUPPLY LINES
++2 Ammunition production.
++2 Ammunition production.
++2 Ammunition production.
+
+OVERCLOCKING 
+Scrambler, Infiltration and Airships prepare +4% faster. 
+Scrambler, Infiltration and Airships prepare +5% faster. 
+Scrambler, Infiltration and Airships prepare +6% faster. 	
+
+HEX AEGIS 
+Kinetic Shield regenerates +4% faster. 
+Kinetic Shield regenerates +5% faster. 
+Kinetic Shield regenerates +6% faster. 
+
+TURBOCHARGER  
+Energy weapons recharge +4% faster. 
+Energy weapons recharge +6% faster. 
+Energy weapons recharge +8% faster. 
+
+ELEMENT OF SURPRISE 
+9% Longer stun effect duration.  
+12% Longer stun effect duration.  
+15% Longer stun effect duration. 	
+
+BLOODLUST 
+Soldier heals +10% for every kill. 
+Soldier heals +15% for every kill. 
+Soldier heals +20% for every kill. 
+
+LAST STAND 
+Weapons deal +10% damage when under 40% fortress structural integrity. 
+Weapons deal +15% damage when under 40% fortress structural integrity. 
+Weapons deal +20% damage when under 40% fortress structural integrity. 	
+
+ONSLAUGHT 
+All weapons get +9% reload boost whenever a target is destroyed. 
+All weapons get +12% reload boost whenever a target is destroyed. 
+All weapons get +15% reload boost whenever a target is destroyed. 
+
+DESPERATE MEASURES 
+Soldier's death extinguishes fire, dissipates toxins and repairs 10 hp. 
+Soldier's death extinguishes fire, dissipates toxins and repairs 30 hp. 
+Soldier's death extinguishes fire, dissipates toxins and repairs 75 hp. 
+
+TRAITORS AND THIEVES 
+Enemy loses -2 ammunition per second. 
+Enemy loses -3 ammunition per second. 
+Enemy loses -4 ammunition per second. 
+
+AUXILIARY RESERVES
++1 Soldier joins your forces.
+
+VOLUNTEERS
++1 Soldier joins your forces.
+
+HARD SHELL 
+Missiles and shells are 20% more durable. 
+
+HEROIC SACRIFICE 
+Soldiers invading enemy base explode in death, dealing 25 damage. 
+Soldiers invading enemy base explode in death, dealing 50 damage. 
+Soldiers invading enemy base explode in death, dealing 75 damage.
+
+WALL OF FIRE 
+All active defense turrets deal +10% more damage. 
+
+AIR SUPERIORITY 
+Airships are 15% more durable and move much faster. 
+
+NUCLEAR SUPERPOWER  
+Nuclear Reactor yields +2 power. 	
+
+ARMS RACE 
+NEMESIS Tactical Nuke prepares 10% faster. 
+
+DEATH FROM ABOVE 
+TARTARUS Heavy Mortar gains +8% accuracy. 
+
+MAXIMUM OVERCHARGE 
+Big energy weapons SIRIUS and HYPERION deal +30% damage. 
+
+EXPENDABLES 
+Exhausted soldiers work slowly and die fast.
+Exhausted soldiers move slowly and die fast.
+
+EXPERIMENTAL PROTOTYPE 
+Weapon requires a few tweaks and calibrations.
+
+LEX STORM 
+HYDRA and BASILISK cannons deal +5% damage. 
+HYDRA and BASILISK cannons deal +6% damage. 
+HYDRA and BASILISK cannons deal +7% damage.
+
+WARMASTER 
+This fortress is run by a superb military leader. 
+
+PRAETORIANS
+Elite weapon crews shell like there is no tomorrow.
+
+SAFE SECTOR 
+Home turf advantage.
