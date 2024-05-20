@@ -85,8 +85,47 @@ const parseUtilities = () => {
   fs.writeFileSync("./output/utilities.json", JSON.stringify(parsed, null, 4));
 };
 
+const slugify = (text: string) => {
+  let newText = text.toLowerCase();
+
+  // remove all punctuation except hyphens
+  newText = newText.replace(/[^a-zA-Z0-9 \-]/g, "");
+
+  return newText.replace(/\s/g, "-").replace(/--/g, "-").replace(/-$/g, "");
+};
+
+const parseFortImages = () => {
+  const slugs = fs
+    .readFileSync("./input/enemy-fort-filenames.txt")
+    .toString()
+    .split("\n")
+    .filter((slug) => !!slug);
+  const urls = fs
+    .readFileSync("./input/enemy-fort-image-urls.txt")
+    .toString()
+    .split("\n")
+    .filter((url) => !!url);
+  return slugs.map((slug, index) => ({
+    slug,
+    url: urls[index],
+  }));
+};
+
 const parseForts = () => {
   const data = fs.readFileSync("./input/forts.txt");
+
+  const images = parseFortImages();
+
+  type Fort = {
+    name: string;
+    slug: string;
+    category: string;
+    progress: number;
+    description: string;
+    imageUrl: string;
+  };
+
+  let assignedSlugs: Fort[] = [];
 
   const parsed = data
     .toString()
@@ -99,12 +138,51 @@ const parseForts = () => {
           let [progress, name] = item.split("% - ");
           let description = "";
           if (name.includes(":")) [name, description] = name.split(":");
-          return {
+
+          let slug = slugify(name);
+          if (
+            assignedSlugs.some(
+              (f) => f.slug === slug && f.category === category.trim()
+            )
+          ) {
+            console.log(`Duplicate slug: ${slug}`);
+            for (let i = 2; i < 100; i++) {
+              const newSlug = `${slug}-${i}`;
+              if (
+                !assignedSlugs.some(
+                  (f) => f.slug === newSlug && f.category === category.trim()
+                )
+              ) {
+                slug = newSlug;
+                break;
+              }
+            }
+          }
+
+          let imageUrl = "";
+
+          if (category.trim() === "enemy") {
+            const image = images.find((image) => image.slug === slug);
+            if (image) {
+              imageUrl = image.url;
+            }
+          }
+
+          const data = {
             name: name.trim(),
+            slug,
             category: category.trim(),
             progress: +progress,
             description: description.trim(),
+            imageUrl,
           };
+
+          assignedSlugs.push(data);
+
+          if (data.category === "enemy" && !data.imageUrl)
+            console.log(`${+data.progress}%: ${slug}`);
+
+          return data;
         });
     })
     .flat(3)
@@ -113,7 +191,7 @@ const parseForts = () => {
   fs.writeFileSync("./output/forts.json", JSON.stringify(parsed, null, 4));
 };
 
-parseAchievements();
-parsePerks();
-parseUtilities();
+// parseAchievements();
+// parsePerks();
+// parseUtilities();
 parseForts();

@@ -1,734 +1,978 @@
 [
     {
         "name": "973rd Aux Light Artillery Station",
+        "slug": "973rd-aux-light-artillery-station",
         "category": "premade",
         "progress": 0,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Krux Listening Outpost",
+        "slug": "krux-listening-outpost",
         "category": "enemy",
         "progress": 0,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Assault Mortars Ambush",
+        "slug": "assault-mortars-ambush",
         "category": "enemy",
         "progress": 1,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Airforce Transit Depot 73",
+        "slug": "airforce-transit-depot-73",
         "category": "premade",
         "progress": 2,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "ORION Blaster Test Site",
+        "slug": "orion-blaster-test-site",
         "category": "enemy",
         "progress": 2,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Damocles Dam Security Perimeter",
+        "slug": "damocles-dam-security-perimeter",
         "category": "premade",
         "progress": 3,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Forsaken Launch Pad",
+        "slug": "forsaken-launch-pad",
         "category": "enemy",
         "progress": 3,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Secret Railway Tunnel",
+        "slug": "secret-railway-tunnel",
         "category": "enemy",
         "progress": 4,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/uvP2lsO.jpg"
     },
     {
         "name": "Repurposed Launch Pad",
+        "slug": "repurposed-launch-pad",
         "category": "premade",
         "progress": 5,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Wastelands Encampment",
+        "slug": "wastelands-encampment",
         "category": "enemy",
         "progress": 5,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Derelict Observatory",
+        "slug": "derelict-observatory",
         "category": "enemy",
         "progress": 6,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/hGeCNzi.jpg"
     },
     {
         "name": "Supply Depot",
+        "slug": "supply-depot",
         "category": "enemy",
         "progress": 7,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/frZP0e4.jpg"
     },
     {
         "name": "FORT RAPTOR",
+        "slug": "fort-raptor",
         "category": "customizable",
         "progress": 7,
-        "description": "Beast upon this world!"
+        "description": "Beast upon this world!",
+        "imageUrl": ""
     },
     {
         "name": "LEX Ammo Factory",
+        "slug": "lex-ammo-factory",
         "category": "enemy",
         "progress": 8,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/XGi11ys.jpg"
     },
     {
         "name": "Chemical Plant",
+        "slug": "chemical-plant",
         "category": "enemy",
         "progress": 9,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/t8PvOoM.jpg"
     },
     {
         "name": "Southern Rocket LS",
+        "slug": "southern-rocket-ls",
         "category": "enemy",
         "progress": 10,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Aurelia Airbase",
+        "slug": "aurelia-airbase",
         "category": "enemy",
         "progress": 11,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/dC49t55.jpg"
     },
     {
         "name": "Cavern Retreat",
+        "slug": "cavern-retreat",
         "category": "enemy",
         "progress": 12,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/yib9ROR.jpg"
     },
     {
         "name": "Petra Gate",
+        "slug": "petra-gate",
         "category": "enemy",
         "progress": 13,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/uN0d6FR.jpg"
     },
     {
         "name": "Highland Ridge",
+        "slug": "highland-ridge",
         "category": "enemy",
         "progress": 14,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/w7MdEYD.jpg"
     },
     {
         "name": "State Chemical Plant",
+        "slug": "state-chemical-plant",
         "category": "premade",
         "progress": 15,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "XXII Field Hospital",
+        "slug": "xxii-field-hospital",
         "category": "enemy",
         "progress": 15,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/FQdwehP.jpg"
     },
     {
         "name": "Fort Sycamore",
+        "slug": "fort-sycamore",
         "category": "enemy",
         "progress": 16,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/8LPtFeN.jpg"
     },
     {
         "name": "FORT SYCAMORE",
+        "slug": "fort-sycamore",
         "category": "customizable",
         "progress": 16,
-        "description": "Cut them all down!"
+        "description": "Cut them all down!",
+        "imageUrl": ""
     },
     {
         "name": "Iron Wall",
+        "slug": "iron-wall",
         "category": "enemy",
         "progress": 17,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/BI8lfo4.jpg"
     },
     {
         "name": "Torch Power Platform",
+        "slug": "torch-power-platform",
         "category": "enemy",
         "progress": 18,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Atom Core Bunker",
+        "slug": "atom-core-bunker",
         "category": "enemy",
         "progress": 19,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Viper Nest",
+        "slug": "viper-nest",
         "category": "enemy",
         "progress": 20,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Precision Strike COM",
+        "slug": "precision-strike-com",
         "category": "enemy",
         "progress": 21,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/IAVTp3x.jpg"
     },
     {
         "name": "Communications Central",
+        "slug": "communications-central",
         "category": "enemy",
         "progress": 22,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/2uKRgYL.jpg"
     },
     {
         "name": "The Claw",
+        "slug": "the-claw",
         "category": "enemy",
         "progress": 23,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/A1Lup2a.jpg"
     },
     {
         "name": "KS Tech Research Facility",
+        "slug": "ks-tech-research-facility",
         "category": "premade",
         "progress": 24,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Krux Sneak Attack",
+        "slug": "krux-sneak-attack",
         "category": "enemy",
         "progress": 24,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Siege Brigade",
+        "slug": "siege-brigade",
         "category": "enemy",
         "progress": 25,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Bell Tower",
+        "slug": "bell-tower",
         "category": "enemy",
         "progress": 26,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/GSkfulT.jpg"
     },
     {
         "name": "The Spire",
+        "slug": "the-spire",
         "category": "enemy",
         "progress": 27,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/0XGJDG7.jpg"
     },
     {
         "name": "THE SPIRE",
+        "slug": "the-spire",
         "category": "customizable",
         "progress": 27,
-        "description": "Stand your ground!"
+        "description": "Stand your ground!",
+        "imageUrl": ""
     },
     {
         "name": "ICBM Launch Silo",
+        "slug": "icbm-launch-silo",
         "category": "enemy",
         "progress": 28,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/V7c4aRQ.jpg"
     },
     {
         "name": "Castle Flakk",
+        "slug": "castle-flakk",
         "category": "enemy",
         "progress": 29,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/4TVwJQk.jpg"
     },
     {
         "name": "SCION EMP Range",
+        "slug": "scion-emp-range",
         "category": "enemy",
         "progress": 30,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "SIRIUS Scorcher Platform",
+        "slug": "sirius-scorcher-platform",
         "category": "premade",
         "progress": 31,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Ramses City Rooftops",
+        "slug": "ramses-city-rooftops",
         "category": "enemy",
         "progress": 31,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Storm Wyvern",
+        "slug": "storm-wyvern",
         "category": "enemy",
         "progress": 32,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/xdq31A5.jpg"
     },
     {
         "name": "Propaganda Tower",
+        "slug": "propaganda-tower",
         "category": "enemy",
         "progress": 33,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/QFX9K4b.jpg"
     },
     {
         "name": "Dozer Castle",
+        "slug": "dozer-castle",
         "category": "enemy",
         "progress": 34,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/2ka0Ip1.jpg"
     },
     {
         "name": "Capitulum Cathedral",
+        "slug": "capitulum-cathedral",
         "category": "enemy",
         "progress": 35,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/E6iuaoe.jpg"
     },
     {
         "name": "The Great Bulwark",
+        "slug": "the-great-bulwark",
         "category": "premade",
         "progress": 36,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "SST Prism",
+        "slug": "sst-prism",
         "category": "enemy",
         "progress": 36,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/0lDMbfP.jpg"
     },
     {
         "name": "Xerxes Industrial City",
+        "slug": "xerxes-industrial-city",
         "category": "enemy",
         "progress": 37,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/4kNhc9r.jpg"
     },
     {
         "name": "Fortress Axiom",
+        "slug": "fortress-axiom",
         "category": "enemy",
         "progress": 38,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/rcbBwbO.jpg"
     },
     {
         "name": "FORTRESS SCARABEUS",
+        "slug": "fortress-scarabeus",
         "category": "customizable",
         "progress": 38,
-        "description": "Eternal peace in perpetual war."
+        "description": "Eternal peace in perpetual war.",
+        "imageUrl": ""
     },
     {
         "name": "Xerxes Industrial Zone",
+        "slug": "xerxes-industrial-zone",
         "category": "enemy",
         "progress": 39,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/h8dDwO0.jpg"
     },
     {
         "name": "Kreiwald Research Station",
+        "slug": "kreiwald-research-station",
         "category": "enemy",
         "progress": 40,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/fvSFpFr.jpg"
     },
     {
         "name": "SSR Testing Pylon",
+        "slug": "ssr-testing-pylon",
         "category": "enemy",
         "progress": 41,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/21gIgjD.jpg"
     },
     {
         "name": "Retaliatory Battalion",
+        "slug": "retaliatory-battalion",
         "category": "enemy",
         "progress": 42,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Xerxes Slums Uprising",
+        "slug": "xerxes-slums-uprising",
         "category": "enemy",
         "progress": 43,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/Fq6XPm7.jpg"
     },
     {
         "name": "Insurgents' Hideout",
+        "slug": "insurgents-hideout",
         "category": "enemy",
         "progress": 44,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/zos24wk.jpg"
     },
     {
         "name": "Creon Sea Port",
+        "slug": "creon-sea-port",
         "category": "enemy",
         "progress": 45,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/EhKsByn.jpg"
     },
     {
         "name": "Supercharged Platform",
+        "slug": "supercharged-platform",
         "category": "enemy",
         "progress": 46,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/rVDmM0r.jpg"
     },
     {
         "name": "Lower Railroad Bridge",
+        "slug": "lower-railroad-bridge",
         "category": "enemy",
         "progress": 47,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/5x3sz2F.jpg"
     },
     {
         "name": "Coastal Cliffs",
+        "slug": "coastal-cliffs",
         "category": "enemy",
         "progress": 48,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/k8pe5RM.jpg"
     },
     {
         "name": "Upper Railroad Bridge",
+        "slug": "upper-railroad-bridge",
         "category": "enemy",
         "progress": 49,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/ukXfdQ9.jpg"
     },
     {
         "name": "Megareus Waterfront",
+        "slug": "megareus-waterfront",
         "category": "enemy",
         "progress": 50,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/7gVAavC.jpg"
     },
     {
         "name": "Megareus West",
+        "slug": "megareus-west",
         "category": "enemy",
         "progress": 51,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/83aBhQE.jpg"
     },
     {
         "name": "Downtown Guard Tower",
+        "slug": "downtown-guard-tower",
         "category": "enemy",
         "progress": 52,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/WlSwf5z.jpg"
     },
     {
         "name": "Megareus East",
+        "slug": "megareus-east",
         "category": "enemy",
         "progress": 53,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/CUAibUQ.jpg"
     },
     {
         "name": "Falcon Fortress",
+        "slug": "falcon-fortress",
         "category": "enemy",
         "progress": 54,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/fjOEl5O.jpg"
     },
     {
         "name": "FORTRESS FALCON",
+        "slug": "fortress-falcon",
         "category": "customizable",
         "progress": 54,
-        "description": "Swoop in for the kill!"
+        "description": "Swoop in for the kill!",
+        "imageUrl": ""
     },
     {
         "name": "Capital Destroyer XVII",
+        "slug": "capital-destroyer-xvii",
         "category": "enemy",
         "progress": 55,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/K5AoDoy.jpg"
     },
     {
         "name": "Nocturnal WMD Vaults",
+        "slug": "nocturnal-wmd-vaults",
         "category": "enemy",
         "progress": 56,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/toqM4Ca.jpg"
     },
     {
         "name": "Uranium Quarry",
+        "slug": "uranium-quarry",
         "category": "enemy",
         "progress": 57,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/FTsXKEj.jpg"
     },
     {
         "name": "Vipers Strike Command",
+        "slug": "vipers-strike-command",
         "category": "enemy",
         "progress": 58,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/bbmHxA0.jpg"
     },
     {
         "name": "Thorium-Plutonium Quarry",
+        "slug": "thorium-plutonium-quarry",
         "category": "enemy",
         "progress": 59,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/MnKflLy.jpg"
     },
     {
         "name": "Aerodrome Icarus",
+        "slug": "aerodrome-icarus",
         "category": "enemy",
         "progress": 60,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/HxCF8wq.jpg"
     },
     {
         "name": "Centurion Missile Pod",
+        "slug": "centurion-missile-pod",
         "category": "premade",
         "progress": 61,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "SSR Pylon IX",
+        "slug": "ssr-pylon-ix",
         "category": "enemy",
         "progress": 61,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Mount Naraka",
+        "slug": "mount-naraka",
         "category": "enemy",
         "progress": 62,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/9U9FqBl.jpg"
     },
     {
         "name": "Training Camp",
+        "slug": "training-camp",
         "category": "enemy",
         "progress": 63,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/TqcqQu3.jpg"
     },
     {
         "name": "Sea Fortress Polarix",
+        "slug": "sea-fortress-polarix",
         "category": "enemy",
         "progress": 64,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/YmabeIX.jpg"
     },
     {
         "name": "Railroad Nexus",
+        "slug": "railroad-nexus",
         "category": "enemy",
         "progress": 65,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/Z2jTYuN.jpg"
     },
     {
         "name": "Underground Lab",
+        "slug": "underground-lab",
         "category": "enemy",
         "progress": 66,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/dF7Jeaf.jpg"
     },
     {
         "name": "Stormguard AA System",
+        "slug": "stormguard-aa-system",
         "category": "enemy",
         "progress": 67,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/6OdSOuO.jpg"
     },
     {
         "name": "Fort Locust",
+        "slug": "fort-locust",
         "category": "enemy",
         "progress": 68,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/xpNeWCa.jpg"
     },
     {
         "name": "73rd State Nuclear Silo",
+        "slug": "73rd-state-nuclear-silo",
         "category": "premade",
         "progress": 69,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Jupiter ICBM Vaults",
+        "slug": "jupiter-icbm-vaults",
         "category": "enemy",
         "progress": 69,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/lAIPo91.jpg"
     },
     {
         "name": "Thorn Valley",
+        "slug": "thorn-valley",
         "category": "enemy",
         "progress": 70,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/qYtoosq.jpg"
     },
     {
         "name": "Central Intelligence Command",
+        "slug": "central-intelligence-command",
         "category": "enemy",
         "progress": 71,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/AHl3KF7.jpg"
     },
     {
         "name": "Tribune Missile Pod",
+        "slug": "tribune-missile-pod",
         "category": "enemy",
         "progress": 72,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/EVSY6Mt.jpg"
     },
     {
         "name": "Jericho Fortress",
+        "slug": "jericho-fortress",
         "category": "enemy",
         "progress": 73,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "FORTRESS RESOLUTION",
+        "slug": "fortress-resolution",
         "category": "customizable",
         "progress": 73,
-        "description": "Stronger will shall triumph!"
+        "description": "Stronger will shall triumph!",
+        "imageUrl": ""
     },
     {
         "name": "Wrath Capital Destroyer",
+        "slug": "wrath-capital-destroyer",
         "category": "enemy",
         "progress": 74,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/19N489E.jpg"
     },
     {
         "name": "Flakk Citadel XV",
+        "slug": "flakk-citadel-xv",
         "category": "enemy",
         "progress": 75,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/J0C94FU.jpg"
     },
     {
         "name": "Gold Mine",
+        "slug": "gold-mine",
         "category": "enemy",
         "progress": 76,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/lPpBxDD.jpg"
     },
     {
         "name": "Starlight Prime",
+        "slug": "starlight-prime",
         "category": "enemy",
         "progress": 77,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/EOeuY5S.jpg"
     },
     {
         "name": "IXth Artillery Legion",
+        "slug": "ixth-artillery-legion",
         "category": "enemy",
         "progress": 78,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/Ktbueb5.jpg"
     },
     {
         "name": "Krux Guard Camp",
+        "slug": "krux-guard-camp",
         "category": "enemy",
         "progress": 79,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/1OzZFvF.jpg"
     },
     {
         "name": "Railroad Terminal XL",
+        "slug": "railroad-terminal-xl",
         "category": "enemy",
         "progress": 80,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/mwlheAD.jpg"
     },
     {
         "name": "Molehill",
+        "slug": "molehill",
         "category": "enemy",
         "progress": 81,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/7Jmzog9.jpg"
     },
     {
         "name": "Karax Crags",
+        "slug": "karax-crags",
         "category": "enemy",
         "progress": 82,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/sgz9tPi.jpg"
     },
     {
         "name": "SST Invictus",
+        "slug": "sst-invictus",
         "category": "enemy",
         "progress": 83,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/xFO86tQ.jpg"
     },
     {
         "name": "Tribune Missile Pod",
+        "slug": "tribune-missile-pod-2",
         "category": "enemy",
         "progress": 84,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/iEfFt9h.jpg"
     },
     {
         "name": "Fort Apocalypse",
+        "slug": "fort-apocalypse",
         "category": "enemy",
         "progress": 85,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/GHYkOtx.jpg"
     },
     {
         "name": "Krux Military Academy",
+        "slug": "krux-military-academy",
         "category": "enemy",
         "progress": 86,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/hgHLXoQ.jpg"
     },
     {
         "name": "Sol Tyranus",
+        "slug": "sol-tyranus",
         "category": "enemy",
         "progress": 87,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/jlE7pEQ.jpg"
     },
     {
         "name": "Mount Sepulcher",
+        "slug": "mount-sepulcher",
         "category": "enemy",
         "progress": 88,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/IyoBvXw.jpg"
     },
     {
         "name": "Minerva Reactor Citadel",
+        "slug": "minerva-reactor-citadel",
         "category": "enemy",
         "progress": 89,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/vqjwHx9.jpg"
     },
     {
         "name": "Orcus Gorge",
+        "slug": "orcus-gorge",
         "category": "enemy",
         "progress": 90,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/Pm94Coy.jpg"
     },
     {
         "name": "Krixus Silos",
+        "slug": "krixus-silos",
         "category": "enemy",
         "progress": 91,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/91wDAPR.jpg"
     },
     {
         "name": "Sierra Thrax",
+        "slug": "sierra-thrax",
         "category": "enemy",
         "progress": 92,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/BcR7jL8.jpg"
     },
     {
         "name": "Fortress Mars",
+        "slug": "fortress-mars",
         "category": "enemy",
         "progress": 93,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/2YqHO1m.jpg"
     },
     {
         "name": "Janus Viaduct",
+        "slug": "janus-viaduct",
         "category": "enemy",
         "progress": 94,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/BDTeqj2.jpg"
     },
     {
         "name": "Remus Capital Outskirts",
+        "slug": "remus-capital-outskirts",
         "category": "enemy",
         "progress": 95,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "Fortress Octopuss",
+        "slug": "fortress-octopuss",
         "category": "enemy",
         "progress": 96,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/xoCaBZT.jpg"
     },
     {
         "name": "Remus Factorium",
+        "slug": "remus-factorium",
         "category": "enemy",
         "progress": 97,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/403crGm.jpg"
     },
     {
         "name": "Remus Capital of Krux",
+        "slug": "remus-capital-of-krux",
         "category": "enemy",
         "progress": 98,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/WsjYIBp.jpg"
     },
     {
         "name": "Fortress Rubicon",
+        "slug": "fortress-rubicon",
         "category": "enemy",
         "progress": 99,
-        "description": ""
+        "description": "",
+        "imageUrl": ""
     },
     {
         "name": "FORTRESS RUBICON",
+        "slug": "fortress-rubicon",
         "category": "customizable",
         "progress": 99,
-        "description": "The die is cast."
+        "description": "The die is cast.",
+        "imageUrl": ""
     },
     {
         "name": "General Grauen",
+        "slug": "general-grauen",
         "category": "enemy",
         "progress": 100,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/WzA8YXI.jpg"
     },
     {
         "name": "General Leibholz",
+        "slug": "general-leibholz",
         "category": "enemy",
         "progress": 101,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/oIRdnwy.jpg"
     },
     {
         "name": "General Spector",
+        "slug": "general-spector",
         "category": "enemy",
         "progress": 102,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/QiEO8KJ.jpg"
     },
     {
         "name": "General Morgenstern",
+        "slug": "general-morgenstern",
         "category": "enemy",
         "progress": 103,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/usrHshE.jpg"
     },
     {
         "name": "General Hass",
+        "slug": "general-hass",
         "category": "enemy",
         "progress": 104,
-        "description": ""
+        "description": "",
+        "imageUrl": "https://i.imgur.com/3ELfnAY.jpg"
     }
 ]
