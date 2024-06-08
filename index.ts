@@ -191,7 +191,80 @@ const parseForts = () => {
   fs.writeFileSync("./output/forts.json", JSON.stringify(parsed, null, 4));
 };
 
+const parsePlayerForts = async () => {
+  const data = fs.readFileSync("./input/layouts.txt");
+
+  let [names, links] = data
+    .toString()
+    .split("\n\n")
+    .map((t) =>
+      t
+        .split("\n")
+        .map((v) => v.trim())
+        .filter((v) => !!v)
+    );
+
+  const layoutLinks = names.map((name, index) => ({
+    name,
+    link: links[index],
+  }));
+
+  const layoutInfo = (await import("./input/layouts.json")).default;
+
+  const forts = (await import("./output/forts.json")).default.filter(
+    (f) => f.category === "customizable"
+  );
+
+  const parsedLayouts = layoutInfo.map((v) => {
+    const nameslug = v.layout_name.toLowerCase().trim().replace(/\s/g, "-");
+    const typeslug = v.layout_type
+      .toLowerCase()
+      .replaceAll(" and ", " ")
+      .trim()
+      .replace(/\s/g, "-");
+    const slug = `${nameslug}-${typeslug}`.trim();
+    return {
+      name: v.layout_name,
+      fort: nameslug,
+      layout: v.layout_type.replaceAll(" and ", " & "),
+      slug: typeslug,
+      imageUrl: layoutLinks.find((l) => l.name === slug)?.link,
+      premium: v.premium,
+      power: +v.power.replaceAll("+", ""),
+      ammunition: +v.ammunition.replaceAll("+", ""),
+      soldiers: v.soldiers,
+      hitpoints: v.hitpoints,
+      defense_slots: v.defense_slots,
+      weapon_slots: v.weapon_slots,
+      utility_slots: v.utility_slots,
+      multi_slots: v.multipurposeslot_count,
+    };
+  });
+
+  const playerForts = forts.map((f) => {
+    const layouts = parsedLayouts.filter((l) => l.fort === f.slug);
+    return {
+      name: f.name,
+      description: f.description,
+      progress: f.progress,
+      premium: layouts.every((l) => l.premium),
+      slug: f.slug,
+      imageUrl: f.imageUrl || layouts[0].imageUrl,
+      layouts: layouts.map((l) => {
+        const { name, fort, ...rest } = l;
+        return rest;
+      }),
+    };
+  });
+
+  fs.writeFileSync(
+    "./output/playerForts.json",
+    JSON.stringify(playerForts, null, 4)
+  );
+};
+
 // parseAchievements();
 // parsePerks();
 // parseUtilities();
-parseForts();
+// parseForts();
+parsePlayerForts();
